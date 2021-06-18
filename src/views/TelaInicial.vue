@@ -1,7 +1,8 @@
 <template>
   <div id="products">
     <div class="product-count">
-      <p>{{ product.counter }}registros encontrados</p>
+    <!--{{ product.counter }}-->
+      <p>registros encontrados</p>
     </div>
     <div class="content">
       <div class="card">
